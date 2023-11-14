@@ -1,0 +1,65 @@
+
+body{
+    background: linear-gradient(45deg,orange,purple);
+    min-height: 100vh;
+    width: 100%;
+    height: auto;
+}
+
+.container{
+    width: 35%;
+    margin: auto;
+    margin-top: 45px;
+    border-radius: 10px;
+    min-height:80vh;
+}
+.textfield{
+    width: 95%;
+    height: 15vh;
+    background-color: #DCDCDC;
+    margin: auto;
+    margin-top: 5%;
+    border-radius: 10px;
+}
+.textfield input{
+    margin-top: 5%;
+    width: 90%;
+    height: 6vh;
+    border-radius: 8px;
+    border:none;
+    font-size: 18px;
+    margin-left:5%;
+    
+}
+
+li{
+    width: 92%;
+    height:6vh;
+    background-color: white;
+    margin-top: 10px;
+    border-radius: 7px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+.list{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+    margin: 0 10px;
+}
+.list button{
+   background-color: brown;
+   padding: 5px 20px;
+   color: white;
+   font-weight: 700;
+   border: none;
+   border-radius: 3px;
+}
+
+
+
+
+
+
+
+
